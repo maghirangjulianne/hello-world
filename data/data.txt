@@ -1,0 +1,10 @@
+{
+    "topic": "GitHub",
+    "uses": [
+        "code redundancy and backups",
+        "forced code reviews",
+        "centralization",
+        "available over the web"
+    ],
+    "tech": "Git"
+}
